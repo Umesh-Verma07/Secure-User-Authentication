@@ -1,8 +1,7 @@
 # Secure-User-Authentication
 This project is a user authentication webpage. It is being developed as part of an internship at Future Intern.
-<br>
-This project implements a secure user authentication system with the following features:
 
+This project implements a secure user authentication system with the following features: <br>
 **User Registration and Login:** Users can sign up for an account and log in securely using their credentials. <br>
 **Authentication and Authorization:** Access to protected routes is granted only after successful authentication.<br>
 **Password Security:** Passwords are securely hashed using standard mechanisms to protect user data. <br>
